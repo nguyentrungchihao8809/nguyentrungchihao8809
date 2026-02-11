@@ -1,7 +1,7 @@
-# Hi there, I'm [Tên của bạn]! 👋
+# Hi there, I'm NGUYỄN TRUNG CHIA HÀO! 👋
 
 ### 🚀 Giới thiệu ngắn
-- 🎓 Sinh viên mới tốt nghiệp chuyên ngành **Công nghệ thông tin**.
+- 🎓 Sinh viên năm 3 chuyên ngành **Công nghệ thông tin**.
 - 💻 Đang định hướng trở thành **Fullstack Developer** (hoặc Backend/Frontend).
 - 🔥 Đam mê học hỏi các công nghệ mới và giải quyết các bài toán tối ưu hóa.
 
