@@ -1,24 +1,40 @@
-# Hi there, I'm NGUYỄN TRUNG CHIA HÀO! 👋
+# Hi 👋, I'm Hao (nguyentrungchihao8809)
+### 🚀 Software Engineer Fresher | Java & Mobile Enthusiast
 
-### 🚀 Giới thiệu ngắn
-- 🎓 Sinh viên năm 3 chuyên ngành **Công nghệ thông tin**.
-- 💻 Đang định hướng trở thành **Fullstack Developer**.
-- 🔥 Đam mê học hỏi các công nghệ mới và giải quyết các bài toán tối ưu hóa.
+A passionate developer from Vietnam. I love building scalable web applications and smooth mobile experiences. Currently looking for opportunities to contribute and grow in a professional environment like FPT Software.
 
-### 🛠 Tech Stack & Tools
-<p>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+---
+
+### 🛠 My Tech Stack
+
+#### 🌐 Backend & Database
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 📱 Frontend & Mobile
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+#### ⚙️ Tools & Workflow
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=atlassian&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=nguyentrungchihao8809&show_icons=true&theme=radical&hide_border=true" alt="Hao's GitHub stats" />
+</p>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentrungchihao8809&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-### 📊 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[TÊN_USER_CỦA_BẠN]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[TÊN_USER_CỦA_BẠN]&layout=compact&theme=radical)
+---
 
-### 📫 Liên hệ với mình
-- 📧 Email: [Email của bạn]
-- 🔗 LinkedIn: [Link LinkedIn của bạn]
-- 📱 Phone: [Số điện thoại của bạn]
+### 📫 Connect with me
+- 📧 Email: [Địa chỉ Email của bạn]
+- 💼 LinkedIn: [Link LinkedIn của bạn]
+- 📞 Phone: [Số điện thoại của bạn]
