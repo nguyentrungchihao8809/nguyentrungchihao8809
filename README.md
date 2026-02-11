@@ -2,7 +2,7 @@
 
 ### 🚀 Giới thiệu ngắn
 - 🎓 Sinh viên năm 3 chuyên ngành **Công nghệ thông tin**.
-- 💻 Đang định hướng trở thành **Fullstack Developer** (hoặc Backend/Frontend).
+- 💻 Đang định hướng trở thành **Fullstack Developer**.
 - 🔥 Đam mê học hỏi các công nghệ mới và giải quyết các bài toán tối ưu hóa.
 
 ### 🛠 Tech Stack & Tools
