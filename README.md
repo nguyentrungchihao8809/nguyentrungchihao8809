@@ -35,5 +35,5 @@ A passionate Software Engineer based in Vietnam, dedicated to building scalable 
 
 ### 📫 Connect with me
 - 📧 Email: nguyentrungchihao8809@gmail.com
-- 💼 LinkedIn: 
+- 💼 LinkedIn: www.linkedin.com/in/hào-nguyễn-trung-chí-95843339b
 - 📞 Phone: 0794272506
