@@ -35,6 +35,6 @@ A passionate developer from Vietnam. I love building scalable web applications a
 ---
 
 ### 📫 Connect with me
-- 📧 Email: [Địa chỉ Email của bạn]
-- 💼 LinkedIn: [Link LinkedIn của bạn]
-- 📞 Phone: [Số điện thoại của bạn]
+- 📧 Email: nguyentrungchihao8809@gmail.com
+- 💼 LinkedIn: 
+- 📞 Phone: 0794272506
