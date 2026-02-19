@@ -4,7 +4,7 @@
 A passionate Software Engineer based in Vietnam, dedicated to building scalable web applications and seamless mobile experiences. I thrive in professional, fast-paced environments and am always eager to contribute to impactful projects while continuously evolving my technical expertise.
 ---
 
-### 🛠 My Tech Stack
+### My Tech Stack
 
 #### Backend & Database
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -33,7 +33,7 @@ A passionate Software Engineer based in Vietnam, dedicated to building scalable 
 
 ---
 
-### 📫 Connect with me
-- 📧 Email: nguyentrungchihao8809@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/hào-nguyễn-trung-chí-95843339b
-- 📞 Phone: 0794272506
+### Connect with me
+- Email: nguyentrungchihao8809@gmail.com
+- LinkedIn: www.linkedin.com/in/hào-nguyễn-trung-chí-95843339b
+- Phone: 0794272506
