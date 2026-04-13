@@ -1,11 +1,11 @@
-# Hi, I'm Hao (nguyentrungchihao8809) 👋
+# Hi, I'm Hao (nguyentrungchihao8809)
 ### AI Engineer & Software Developer | RAG, Microservices & Embedded Systems
 
-A dedicated Software Engineer based in Vietnam, focused on building **Intelligent Systems** and scalable architectures. I specialize in developing **AI Agents** using **RAG (Retrieval-Augmented Generation)**, architecting **Distributed Microservices**, and implementing low-level solutions in **Embedded Systems**.
+Focused on building **Intelligent Systems** and scalable architectures. I specialize in developing **AI Agents** using **RAG (Retrieval-Augmented Generation)**, architecting **Distributed Microservices**, and implementing low-level solutions in **Embedded Systems**.
 
 ---
 
-### 🚀 Technical Expertise
+### Technical Expertise
 
 #### AI & Intelligent Systems
 - **Core:** AI Agents, RAG (Hybrid Retrieval, Semantic Chunking), LLM Optimization.
@@ -30,14 +30,14 @@ A dedicated Software Engineer based in Vietnam, focused on building **Intelligen
 
 ---
 
-### 📑 Key Focus & Research
+### Key Focus & Research
 - **RAG Optimization:** Nghiên cứu chuyên sâu về tác động của các phương pháp Document Chunking đối với hiệu suất truy vấn SOP trong doanh nghiệp.
 - **Scalable Infrastructure:** Triển khai Microservices với Spring Cloud Gateway, gRPC và RabbitMQ cho các nền tảng real-time.
 - **Hardware Interfacing:** Phát triển hệ thống điều khiển thông minh dựa trên vi điều khiển 8051 và mô phỏng Proteus.
 
 ---
 
-### 📊 GitHub Statistics
+### GitHub Statistics
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=nguyentrungchihao8809&show_icons=true&theme=radical&hide_border=true" alt="Hao's GitHub stats" />
 </p>
